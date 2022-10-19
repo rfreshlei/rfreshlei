@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rfreshlei
 - 👀 I’m interested in Arts/drawing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python for automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
